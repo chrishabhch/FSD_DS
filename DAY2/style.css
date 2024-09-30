@@ -1,17 +1,17 @@
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 12px;
+    padding: 12px;
 }
 table{
     width: 100px;
     border-radius: 12px;
     border-style: dashed;
     border-color: blue;
-    background-color: black;
+    background-color: gold;
 
 }
 #par1{
     text-align: center;
     color: turquoise;
-    background-color: black;
+    background-color: gold;
 }
