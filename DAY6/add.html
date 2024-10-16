@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" name="" id="txt" placeholder="Enter text here">
+    <button onclick="addelement()">ADD header</button>
+    <script>
+        
+        addelement=()=>{
+            let x=document.getElementById('txt').value
+            const h1 = document.createElement('h1');
+            h1.textContent=x;
+            let body=document.querySelector('body');
+            body.appendChild(h1);
+
+        }
+    </script>
+</body>
+</html>
