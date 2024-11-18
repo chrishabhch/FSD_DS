@@ -1,0 +1,16 @@
+h1 {
+    background-color: aqua;
+  }
+  h2 {
+    background-color: cadetblue;
+  }
+  #disp {
+    background-color: black;
+    border: 10px solid greenyellow;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    
+  }
