@@ -30,7 +30,7 @@ const movie = [{
 }
 ,{
     id: 5,
-    image: 'https://rukminim2.flixcart.com/image/612/612/jeokbrk0/movie/z/6/2/2009-dvd-excel-home-videos-english-avatar-original-imaf3bd6zed7phes.jpeg?q=70',
+    image: 'https://rukminim2.flixcart.com/image/612/612/jeokbrk0/movie/z/6/2/2009-dvd-excel-home-videos-english-avatar-original-imaf3bd6zed7phes.jpeg?q=70' ,
     title: 'Avtar',
     language: 'English',
     cost: 999,
